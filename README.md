@@ -6,3 +6,7 @@
 ## Task 2 - Prediction of clusters using unsupervised Machine Learning
 1. Finding optimum numbers of clusters. 
 2. Representing those clusters visually.
+## Task 3 - Exploratory Data Analysis on retail superstore data
+1. Perform EDA on the data
+2. Find out the areas that where you can work to make profit?
+3. What all business problems you can derive by exploring the data?
